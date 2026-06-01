@@ -14,7 +14,7 @@ website:
       - href: talks.qmd
         text: Talks
     right:
-      - href: cv.pdf
+      - href: cv.qmd
         text: CV
 
   # Footer
