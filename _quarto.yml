@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs  # GitHub Pages reads from /docs
+
+website:
+  title: "Alex Researcher"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+    right:
+      - href: cv.pdf
+        text: CV
+
+  # Footer
+  page-footer:
+    center: "© 2025 Alex Researcher"
+
+format:
+  html:
+    theme: flatly        # try: cosmo, litera, minty, quartz, sandstone, yeti
+    css: styles.css
+    toc: false

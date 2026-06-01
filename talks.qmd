@@ -1,0 +1,25 @@
+---
+title: "Talks & Presentations"
+---
+
+## Conference Presentations
+
+**2024 — Paper title presented at conference**
+*Conference Name (ICA / NCA / etc.)*, City, Country. June 2024.
+[[Slides]](slides/talk2024.pdf)
+
+**2023 — Another paper title**
+*Conference Name*, City, Country. May 2023.
+
+## Invited Talks & Workshops
+
+**2024 — Workshop on computational methods**
+*Department of X, University Y*, City. March 2024.
+
+**2023 — Guest lecture: topic title**
+*Course name, University Z*, Online. October 2023.
+
+## Posters
+
+**2022 — Poster title**
+*Conference Name*, City, Country. June 2022.

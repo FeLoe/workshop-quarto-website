@@ -1,0 +1,40 @@
+---
+title: "Alex Researcher"
+about:
+  template: jolla          # options: jolla, trestles, solana, marquee, broadside
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:a.researcher@university.edu
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alexresearcher
+    - icon: github
+      text: GitHub
+      href: https://github.com/alexresearcher
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0000-0000-0000
+---
+
+Welcome to my website! I am an assistant professor of [Your Field] at the
+[Department of Something](https://example.edu), [Your University].
+
+My research focuses on [topic one], [topic two], and [topic three], using
+computational methods to study [your subject area].
+
+## Research Interests
+
+- Computational methods in social science
+- Topic two
+- Topic three
+
+## Education
+
+**PhD in Communication Science** | Your University | 2023
+
+**MSc in Communication Science** | Another University | 2019
+
+**BA in [Field]** | University Name | 2017
