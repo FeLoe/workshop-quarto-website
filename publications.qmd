@@ -4,26 +4,39 @@ title: "Publications"
 
 ## Journal Articles
 
-**Researcher, A., & Coauthor, B. (2024).** Title of your most recent paper.
+**Penguin, M., & Coauthor, B. (2024).** My First Paper Title: A Study of Something Interesting.
 *Journal of Important Things*, 10(2), 100–120.
 [[DOI]](https://doi.org/10.xxxx/xxxxx) [[PDF]](papers/paper2024.pdf) [[Code]](https://github.com/alexresearcher/paper2024)
 
-**Coauthor, B., Researcher, A., & Third, C. (2023).** Another paper title on a
-related topic. *Another Good Journal*, 5(1), 1–20.
+<details>
+<summary>Abstract</summary>
+This is a placeholder abstract for the workshop demo. In your real site, paste
+your paper's abstract here. Visitors can click to expand it without leaving the
+page. You can include **bold**, *italic*, and any other markdown formatting.
+
+**Keywords:** computational methods, digital media, your topic
+</details>
+
+---
+
+**Coauthor, B., & Penguin, M. (2023).** Another Paper Title on a Related Topic.
+*Another Good Journal*, 5(1), 1–20.
 [[DOI]](https://doi.org/10.xxxx/xxxxx) [[Preprint]](https://osf.io/xxxxx)
 
-**Researcher, A. (2022).** Early career paper title. *Field-Specific Journal*, 3(4), 55–70.
-[[DOI]](https://doi.org/10.xxxx/xxxxx)
+<details>
+<summary>Abstract</summary>
+A second placeholder abstract. Add as many publications as you like by copying
+the block above: title line, links line, and a `<details>` block for the abstract.
+
+**Keywords:** topic one, topic two
+</details>
+
+---
 
 ## Book Chapters
 
-**Researcher, A. (2023).** Chapter title. In B. Editor (Ed.),
+**Penguin, M. (2022).** Chapter Title. In B. Editor (Ed.),
 *Title of the Book* (pp. 1–20). Publisher.
-
-## Theses
-
-**Researcher, A. (2023).** *Dissertation title here*. PhD thesis, Your University.
-[[Link]](https://repository.example.edu/thesis)
 
 ---
 

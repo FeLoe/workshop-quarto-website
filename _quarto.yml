@@ -23,6 +23,6 @@ website:
 
 format:
   html:
-    theme: flatly        # try: cosmo, litera, minty, quartz, sandstone, yeti
+    theme: litera        # try: cosmo, flatly, minty, quartz, sandstone, yeti
     css: styles.css
     toc: false
