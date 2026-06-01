@@ -3,8 +3,9 @@ project:
   output-dir: docs  # GitHub Pages reads from /docs
 
 website:
-  title: "Alex Researcher"
+  title: "Marvin Penguin"
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
@@ -18,7 +19,7 @@ website:
 
   # Footer
   page-footer:
-    center: "© 2025 Alex Researcher"
+    center: "© 2025 Marvin Penguin"
 
 format:
   html:

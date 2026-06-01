@@ -1,8 +1,8 @@
 ---
-title: "Alex Researcher"
+title: "Marvin Penguin"
 about:
   template: jolla          # options: jolla, trestles, solana, marquee, broadside
-  image: profile.jpg
+  image: profile.png
   links:
     - icon: envelope
       text: Email
@@ -20,7 +20,7 @@ about:
 ---
 
 Welcome to my website! I am an assistant professor of [Your Field] at the
-[Department of Something](https://example.edu), [Your University].
+[Hackathon University](https://example.edu).
 
 My research focuses on [topic one], [topic two], and [topic three], using
 computational methods to study [your subject area].

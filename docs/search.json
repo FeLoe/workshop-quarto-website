@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Researcher, A., & Coauthor, B. (2024). Title of your most recent paper. Journal of Important Things, 10(2), 100–120. [DOI] [PDF] [Code]\nCoauthor, B., Researcher, A., & Third, C. (2023). Another paper title on a related topic. Another Good Journal, 5(1), 1–20. [DOI] [Preprint]\nResearcher, A. (2022). Early career paper title. Field-Specific Journal, 3(4), 55–70. [DOI]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Researcher, A., & Coauthor, B. (2024). Title of your most recent paper. Journal of Important Things, 10(2), 100–120. [DOI] [PDF] [Code]\nCoauthor, B., Researcher, A., & Third, C. (2023). Another paper title on a related topic. Another Good Journal, 5(1), 1–20. [DOI] [Preprint]\nResearcher, A. (2022). Early career paper title. Field-Specific Journal, 3(4), 55–70. [DOI]"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\nResearcher, A. (2023). Chapter title. In B. Editor (Ed.), Title of the Book (pp. 1–20). Publisher."
+  },
+  {
+    "objectID": "publications.html#theses",
+    "href": "publications.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\nResearcher, A. (2023). Dissertation title here. PhD thesis, Your University. [Link]\n\nFor the most up-to-date list, see my Google Scholar profile."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "2024 — Paper title presented at conference Conference Name (ICA / NCA / etc.), City, Country. June 2024. [Slides]\n2023 — Another paper title Conference Name, City, Country. May 2023."
+  },
+  {
+    "objectID": "talks.html#conference-presentations",
+    "href": "talks.html#conference-presentations",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "2024 — Paper title presented at conference Conference Name (ICA / NCA / etc.), City, Country. June 2024. [Slides]\n2023 — Another paper title Conference Name, City, Country. May 2023."
+  },
+  {
+    "objectID": "talks.html#invited-talks-workshops",
+    "href": "talks.html#invited-talks-workshops",
+    "title": "Talks & Presentations",
+    "section": "Invited Talks & Workshops",
+    "text": "Invited Talks & Workshops\n2024 — Workshop on computational methods Department of X, University Y, City. March 2024.\n2023 — Guest lecture: topic title Course name, University Z, Online. October 2023."
+  },
+  {
+    "objectID": "talks.html#posters",
+    "href": "talks.html#posters",
+    "title": "Talks & Presentations",
+    "section": "Posters",
+    "text": "Posters\n2022 — Poster title Conference Name, City, Country. June 2022."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marvin Penguin",
+    "section": "",
+    "text": "Welcome to my website! I am an assistant professor of [Your Field] at the Hackathon University.\nMy research focuses on [topic one], [topic two], and [topic three], using computational methods to study [your subject area]."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Marvin Penguin",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nComputational methods in social science\nTopic two\nTopic three"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marvin Penguin",
+    "section": "Education",
+    "text": "Education\nPhD in Communication Science | Your University | 2023\nMSc in Communication Science | Another University | 2019\nBA in [Field] | University Name | 2017"
+  }
+]
