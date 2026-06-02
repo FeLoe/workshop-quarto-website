@@ -7,13 +7,13 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:a.researcher@university.edu
+      href: mailto:m.penguin@uct.ac.za
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/alexresearcher
+      href: https://twitter.com/MarvinPenguin
     - icon: github
       text: GitHub
-      href: https://github.com/alexresearcher
+      href: https://github.com/MarvinPenguin
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com
@@ -22,22 +22,29 @@ about:
       href: https://orcid.org/0000-0000-0000-0000
 ---
 
-Welcome to my website! I am an assistant professor of [Your Field] at the
-[Hackathon University](https://example.edu).
+Welcome! I am an assistant professor of Computational Communication Science at the
+[Boulders Beach Institute for Digital Communication](https://example.edu),
+University of Cape Town.
 
-My research focuses on [topic one], [topic two], and [topic three], using
-computational methods to study [your subject area].
+My research uses computational methods to study how communities form, communicate,
+and navigate information environments online — drawing somewhat liberally on lessons
+from my own species. I am particularly interested in misinformation dynamics, online
+network formation, and what penguin colonies can teach us about echo chambers.
+
+I am currently attending the [Hacking Communication Science](https://hackingcommsci.org)
+hackathon at ICA 2026 in Stellenbosch, South Africa.
 
 ## Research Interests
 
-- Computational methods in social science
-- Topic two
-- Topic three
+- Computational communication science
+- Online communities and collective behaviour
+- Misinformation and information ecosystems
+- Network analysis and colony dynamics
 
 ## Education
 
-**PhD in Communication Science** | Your University | 2023
+**PhD in Communication Science** | University of Cape Town | 2022
 
-**MSc in Communication Science** | Another University | 2019
+**MSc in Communication Science** *(cum laude)* | Stellenbosch University | 2018
 
-**BA in [Field]** | University Name | 2017
+**BA in Media Studies** | University of Pretoria | 2016

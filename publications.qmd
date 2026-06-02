@@ -4,39 +4,50 @@ title: "Publications"
 
 ## Journal Articles
 
-**Penguin, M., & Coauthor, B. (2024).** My First Paper Title: A Study of Something Interesting.
-*Journal of Important Things*, 10(2), 100–120.
-[[DOI]](https://doi.org/10.xxxx/xxxxx) [[PDF]](papers/paper2024.pdf) [[Code]](https://github.com/alexresearcher/paper2024)
+**Penguin, M., & Albatross, A. (2024).** Waddling Through the Twittersphere: Computational
+Analysis of Information Diffusion in Coastal Wildlife Communities.
+*Journal of Computer-Mediated Communication*, 29(3), 45–67.
+[[DOI]](https://doi.org/10.xxxx/xxxxx) [[PDF]](papers/penguin2024.pdf) [[Code]](https://github.com/MarvinPenguin/twittersphere-study)
+
+<!-- To link a PDF: create a papers/ folder in your repo root, add your PDF there,
+     and update the filename above. Remove the [[PDF]] link if you don't have one. -->
 
 <details>
 <summary>Abstract</summary>
-This is a placeholder abstract for the workshop demo. In your real site, paste
-your paper's abstract here. Visitors can click to expand it without leaving the
-page. You can include **bold**, *italic*, and any other markdown formatting.
+Using a computational approach to analyse 2.3 million posts, we examine how information
+spreads through online communities adjacent to wildlife conservation. Findings suggest
+that network topology in penguin-adjacent Twitter communities mirrors flocking patterns
+observed in physical colonies — with high clustering, rapid cascade formation, and
+susceptibility to coordinated misinformation. Implications for computational communication
+science and conservation communication are discussed.
 
-**Keywords:** computational methods, digital media, your topic
+**Keywords:** computational methods, information diffusion, wildlife communication, misinformation
 </details>
 
 ---
 
-**Coauthor, B., & Penguin, M. (2023).** Another Paper Title on a Related Topic.
-*Another Good Journal*, 5(1), 1–20.
+**Rockhopper, E., & Penguin, M. (2023).** Fish or Fake News? Misinformation Sharing Patterns
+in Antarctic Online Communities.
+*Political Communication*, 40(2), 112–134.
 [[DOI]](https://doi.org/10.xxxx/xxxxx) [[Preprint]](https://osf.io/xxxxx)
 
 <details>
 <summary>Abstract</summary>
-A second placeholder abstract. Add as many publications as you like by copying
-the block above: title line, links line, and a `<details>` block for the abstract.
+This study examines misinformation sharing in online communities centred around Antarctic
+wildlife, using a mixed-methods approach combining automated content analysis with network
+mapping. We find that communities sharing misinformation about penguin conservation exhibit
+structural properties consistent with echo chambers, including low bridging capital and
+high internal density.
 
-**Keywords:** topic one, topic two
+**Keywords:** misinformation, echo chambers, political communication, network analysis
 </details>
 
 ---
 
 ## Book Chapters
 
-**Penguin, M. (2022).** Chapter Title. In B. Editor (Ed.),
-*Title of the Book* (pp. 1–20). Publisher.
+**Penguin, M. (2022).** From Physical to Digital Colonies: Network Formation Across Species.
+In B. Seal (Ed.), *Networked Communication: New Frontiers* (pp. 88–110). Cape Town Academic Press.
 
 ---
 

@@ -39,13 +39,13 @@ quarto preview
 ```
 
 ## Changing the theme
-Edit `_quarto.yml` and change `theme: flatly` to any
-[Bootswatch theme](https://bootswatch.com): `cosmo`, `litera`, `minty`,
+Edit `_quarto.yml` and change `theme: litera` to any
+[Bootswatch theme](https://bootswatch.com): `cosmo`, `flatly`, `minty`,
 `quartz`, `sandstone`, `yeti`, etc.
 
 ## Adding a profile photo
-Drop a `profile.jpg` in the root folder and it will appear on the home page.
+Drop a `profile.png` in the root folder and it will appear on the home page.
 
-## Linking your CV
-Put your CV PDF at `cv.pdf` in the root folder.
-The navbar already has a CV link pointing there.
+## Editing your CV
+The CV is a regular page at `cv.qmd` — edit it like any other page.
+No PDF needed; the navbar links directly to the web page.

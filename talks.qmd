@@ -4,22 +4,27 @@ title: "Talks & Presentations"
 
 ## Conference Presentations
 
-**2024 — Paper title presented at conference**
-*Conference Name (ICA / NCA / etc.)*, City, Country. June 2024.
-[[Slides]](slides/talk2024.pdf)
+**2026 — What Online Communities Can Learn from Penguin Colonies**
+*ICA Annual Conference*, Cape Town, South Africa. June 2026.
 
-**2023 — Another paper title**
-*Conference Name*, City, Country. May 2023.
+**2026 — Computational Methods for Studying Community Communication**
+*Hacking Communication Science Hackathon*, Stellenbosch, South Africa. June 2026.
+[[Slides]](slides/hackathon2026.pdf)
+<!-- To link slides: create a slides/ folder in your repo root, add your PDF there,
+     and update the filename above. Remove the [[Slides]] link if you don't have one. -->
+
+**2024 — Fish and Algorithms: Survival Strategies in Information-Rich Environments**
+*NCA Annual Conference*, New Orleans, USA. November 2024.
 
 ## Invited Talks & Workshops
 
-**2024 — Workshop on computational methods**
-*Department of X, University Y*, City. March 2024.
+**2024 — Keynote: Colony Dynamics and Online Communities**
+*Computational Social Science Symposium, Stellenbosch University*, Stellenbosch. August 2024.
 
-**2023 — Guest lecture: topic title**
-*Course name, University Z*, Online. October 2023.
+**2023 — Guest lecture: Penguins, Networks, and Misinformation**
+*Advanced Topics in Digital Communication, University of Cape Town*, Cape Town. March 2023.
 
 ## Posters
 
-**2022 — Poster title**
-*Conference Name*, City, Country. June 2022.
+**2023 — Flocking Behaviour in Digital Environments: A Network Analysis**
+*ICA Annual Conference*, Toronto, Canada. May 2023.
