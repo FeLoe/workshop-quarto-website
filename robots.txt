@@ -1,0 +1,1 @@
+Sitemap: https://FeLoe.github.io/workshop-quarto-website/sitemap.xml

@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marvin Penguin",
+    "section": "",
+    "text": "Welcome! I am an assistant professor of Computational Communication Science at the Boulders Beach Institute for Digital Communication, University of Cape Town.\nMy research uses computational methods to study how communities form, communicate, and navigate information environments online — drawing somewhat liberally on lessons from my own species. I am particularly interested in misinformation dynamics, online network formation, and what penguin colonies can teach us about echo chambers.\nI am currently attending the Hacking Communication Science hackathon at ICA 2026 in Stellenbosch, South Africa."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Marvin Penguin",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nComputational communication science\nOnline communities and collective behaviour\nMisinformation and information ecosystems\nNetwork analysis and colony dynamics"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marvin Penguin",
+    "section": "Education",
+    "text": "Education\nPhD in Communication Science | University of Cape Town | 2022\nMSc in Communication Science (cum laude) | Stellenbosch University | 2018\nBA in Media Studies | University of Pretoria | 2016"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Assistant Professor of Computational Communication Science · University of Cape Town m.penguin@uct.ac.za · Google Scholar · ORCID"
+  },
+  {
+    "objectID": "cv.html#marvin-penguin",
+    "href": "cv.html#marvin-penguin",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Assistant Professor of Computational Communication Science · University of Cape Town m.penguin@uct.ac.za · Google Scholar · ORCID"
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "Curriculum Vitae",
+    "section": "Employment",
+    "text": "Employment\nAssistant Professor · Boulders Beach Institute for Digital Communication, University of Cape Town · 2023–present\nPostdoctoral Fellow · African Institute for Computational Social Science, Stellenbosch University · 2022–2023"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPhD in Communication Science · University of Cape Town · 2022 Dissertation: Colony Dynamics in Digital Environments: A Computational Approach\nMSc in Communication Science (cum laude) · Stellenbosch University · 2018\nBA in Media Studies · University of Pretoria · 2016"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nJournal Articles\nPenguin, M., & Albatross, A. (2024). Waddling Through the Twittersphere: Computational Analysis of Information Diffusion in Coastal Wildlife Communities. Journal of Computer-Mediated Communication, 29(3), 45–67. https://doi.org/10.xxxx/xxxxx\nRockhopper, E., & Penguin, M. (2023). Fish or Fake News? Misinformation Sharing Patterns in Antarctic Online Communities. Political Communication, 40(2), 112–134. https://doi.org/10.xxxx/xxxxx\n\n\nBook Chapters\nPenguin, M. (2022). From Physical to Digital Colonies: Network Formation Across Species. In B. Seal (Ed.), Networked Communication: New Frontiers (pp. 88–110). Cape Town Academic Press."
+  },
+  {
+    "objectID": "cv.html#grants-awards",
+    "href": "cv.html#grants-awards",
+    "title": "Curriculum Vitae",
+    "section": "Grants & Awards",
+    "text": "Grants & Awards\nNRF Grant · R 1,200,000 · 2023–2026 Project: Colony Dynamics in Digital Environments\nBest Paper Award · ICA Computational Methods Division · 2023"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\nComputational Communication Science · MSc level · 2023–present\nIntroduction to Digital Methods · BSc level · 2022–present"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\nEditorial board, Journal of Computer-Mediated Communication · 2024–present Reviewer, Political Communication, Communication Research, ICA Computational Methods Division"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Penguin, M., & Albatross, A. (2024). Waddling Through the Twittersphere: Computational Analysis of Information Diffusion in Coastal Wildlife Communities. Journal of Computer-Mediated Communication, 29(3), 45–67. [DOI] [PDF] [Code]\n\n\n\nAbstract\n\nUsing a computational approach to analyse 2.3 million posts, we examine how information spreads through online communities adjacent to wildlife conservation. Findings suggest that network topology in penguin-adjacent Twitter communities mirrors flocking patterns observed in physical colonies — with high clustering, rapid cascade formation, and susceptibility to coordinated misinformation. Implications for computational communication science and conservation communication are discussed.\nKeywords: computational methods, information diffusion, wildlife communication, misinformation\n\n\nRockhopper, E., & Penguin, M. (2023). Fish or Fake News? Misinformation Sharing Patterns in Antarctic Online Communities. Political Communication, 40(2), 112–134. [DOI] [Preprint]\n\n\nAbstract\n\nThis study examines misinformation sharing in online communities centred around Antarctic wildlife, using a mixed-methods approach combining automated content analysis with network mapping. We find that communities sharing misinformation about penguin conservation exhibit structural properties consistent with echo chambers, including low bridging capital and high internal density.\nKeywords: misinformation, echo chambers, political communication, network analysis"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Penguin, M., & Albatross, A. (2024). Waddling Through the Twittersphere: Computational Analysis of Information Diffusion in Coastal Wildlife Communities. Journal of Computer-Mediated Communication, 29(3), 45–67. [DOI] [PDF] [Code]\n\n\n\nAbstract\n\nUsing a computational approach to analyse 2.3 million posts, we examine how information spreads through online communities adjacent to wildlife conservation. Findings suggest that network topology in penguin-adjacent Twitter communities mirrors flocking patterns observed in physical colonies — with high clustering, rapid cascade formation, and susceptibility to coordinated misinformation. Implications for computational communication science and conservation communication are discussed.\nKeywords: computational methods, information diffusion, wildlife communication, misinformation\n\n\nRockhopper, E., & Penguin, M. (2023). Fish or Fake News? Misinformation Sharing Patterns in Antarctic Online Communities. Political Communication, 40(2), 112–134. [DOI] [Preprint]\n\n\nAbstract\n\nThis study examines misinformation sharing in online communities centred around Antarctic wildlife, using a mixed-methods approach combining automated content analysis with network mapping. We find that communities sharing misinformation about penguin conservation exhibit structural properties consistent with echo chambers, including low bridging capital and high internal density.\nKeywords: misinformation, echo chambers, political communication, network analysis"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\nPenguin, M. (2022). From Physical to Digital Colonies: Network Formation Across Species. In B. Seal (Ed.), Networked Communication: New Frontiers (pp. 88–110). Cape Town Academic Press.\n\nFor the most up-to-date list, see my Google Scholar profile."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "2026 — What Online Communities Can Learn from Penguin Colonies ICA Annual Conference, Cape Town, South Africa. June 2026.\n2026 — Computational Methods for Studying Community Communication Hacking Communication Science Hackathon, Stellenbosch, South Africa. June 2026. [Slides] \n2024 — Fish and Algorithms: Survival Strategies in Information-Rich Environments NCA Annual Conference, New Orleans, USA. November 2024."
+  },
+  {
+    "objectID": "talks.html#conference-presentations",
+    "href": "talks.html#conference-presentations",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "2026 — What Online Communities Can Learn from Penguin Colonies ICA Annual Conference, Cape Town, South Africa. June 2026.\n2026 — Computational Methods for Studying Community Communication Hacking Communication Science Hackathon, Stellenbosch, South Africa. June 2026. [Slides] \n2024 — Fish and Algorithms: Survival Strategies in Information-Rich Environments NCA Annual Conference, New Orleans, USA. November 2024."
+  },
+  {
+    "objectID": "talks.html#invited-talks-workshops",
+    "href": "talks.html#invited-talks-workshops",
+    "title": "Talks & Presentations",
+    "section": "Invited Talks & Workshops",
+    "text": "Invited Talks & Workshops\n2024 — Keynote: Colony Dynamics and Online Communities Computational Social Science Symposium, Stellenbosch University, Stellenbosch. August 2024.\n2023 — Guest lecture: Penguins, Networks, and Misinformation Advanced Topics in Digital Communication, University of Cape Town, Cape Town. March 2023."
+  },
+  {
+    "objectID": "talks.html#posters",
+    "href": "talks.html#posters",
+    "title": "Talks & Presentations",
+    "section": "Posters",
+    "text": "Posters\n2023 — Flocking Behaviour in Digital Environments: A Network Analysis ICA Annual Conference, Toronto, Canada. May 2023."
+  }
+]
