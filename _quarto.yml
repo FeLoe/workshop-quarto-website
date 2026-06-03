@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # GitHub Pages reads from /docs
+  output-dir: docs  # local build output; GitHub Actions deploys to gh-pages branch
 
 website:
   title: "Marvin Penguin"
